@@ -1,4 +1,4 @@
-# Navigation App Attrition Analysis: Spotting Platform Drop-Offs
+# Navigation User Retention Pipeline: Predicting App Attrition
 
 I built an end-to-end predictive machine learning classification pipeline to identify user attrition patterns for a high-volume GPS navigation platform. By isolating specific behavioral triggers and usage thresholds of departing user segments, this framework provides product growth teams with an early-warning system to optimize engagement lifecycles and increase long-term user retention.
 
